@@ -1,3 +1,3 @@
 ﻿  test.c
-D:\Code\BitC\动态打印字符串_220923\test.c(16,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\BitC\动态打印字符串_220923\test.c(17,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   动态打印字符串_220923.vcxproj -> D:\Code\BitC\动态打印字符串_220923\x64\Debug\动态打印字符串_220923.exe
