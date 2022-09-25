@@ -1,3 +1,0 @@
-﻿  strlen.c
-D:\Code\BitC\Strlen_220911\strlen.c(5,15): warning C4013: “strlen”未定义；假设外部返回 int
-  Strlen_220911.vcxproj -> D:\Code\BitC\Strlen_220911\x64\Debug\Strlen_220911.exe
