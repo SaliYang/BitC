@@ -133,6 +133,7 @@
     <ClCompile Include="switch_220919.c" />
     <ClCompile Include="test_二分查找法_220922.c" />
     <ClCompile Include="test_动态打印字符_220923.c" />
+    <ClCompile Include="test_猜数字游戏_220925.c" />
     <ClCompile Include="test_登录系统_220924.c" />
     <ClCompile Include="while_220919.c" />
     <ClCompile Include="test_阶乘_220920.c" />
