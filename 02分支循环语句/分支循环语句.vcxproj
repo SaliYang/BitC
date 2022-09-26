@@ -137,6 +137,8 @@
     <ClCompile Include="test_登录系统_220924.c" />
     <ClCompile Include="while_220919.c" />
     <ClCompile Include="test_阶乘_220920.c" />
+    <ClCompile Include="比较数字大小_220926.c" />
+    <ClCompile Include="辗转相除法_220926.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
