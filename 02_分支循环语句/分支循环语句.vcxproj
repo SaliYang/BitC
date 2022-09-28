@@ -139,6 +139,7 @@
     <ClCompile Include="06_test_阶乘_220920.c" />
     <ClCompile Include="11_test_比较数字大小_220926.c" />
     <ClCompile Include="12_test_辗转相除法_220926.c" />
+    <ClCompile Include="13_test_找素数_220928.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

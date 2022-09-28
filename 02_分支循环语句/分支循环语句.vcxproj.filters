@@ -51,5 +51,8 @@
     <ClCompile Include="12_test_辗转相除法_220926.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="13_test_找素数_220928.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
