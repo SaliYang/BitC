@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 //死递归或递归太深会导致StackOverFlow
-//http;//stackoverflow.com全球程序员的知乎
+//http://stackoverflow.com全球程序员的知乎
 void print(unsigned int num)
 {
 	if (num > 9)//必须要有递归限制条件
