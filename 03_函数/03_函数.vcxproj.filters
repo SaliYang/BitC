@@ -24,5 +24,11 @@
     <ClCompile Include="03_阶乘_221019.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04_递归求斐波那契数_221021.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05_循环求斐波那契数_221021.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

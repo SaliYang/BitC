@@ -130,6 +130,8 @@
     <ClCompile Include="01_打印每位值_221009.c" />
     <ClCompile Include="02_模拟strlen_221019.c" />
     <ClCompile Include="03_阶乘_221019.c" />
+    <ClCompile Include="04_递归求斐波那契数_221021.c" />
+    <ClCompile Include="05_循环求斐波那契数_221021.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
