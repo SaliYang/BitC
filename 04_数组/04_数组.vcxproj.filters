@@ -18,5 +18,8 @@
     <ClCompile Include="01_一维数组_221026.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="02_数组传参冒泡排序_221207.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
